@@ -239,10 +239,10 @@ export const AuthForm = () => {
             {'Re-send verification code'}
           </ResendButton>)}
           <SubmitButton type="submit">{isRegisterPage ? 'Sign up' : 'Sign In'}</SubmitButton>
-          <GoogleButton href="https://final-project-utf-8-backend.onrender.com/users/google">
+{/*           <GoogleButton href="https://final-project-utf-8-backend.onrender.com/users/google">
             {isRegisterPage ? 'Sign up with Google' : 'Sign In with Google'}
             <img style={{ marginLeft: 8 }} height={25} width={25} alt="googleLogo" src={googleLogo} />
-          </GoogleButton>
+          </GoogleButton> */}
         </Form>
       </Container>
       <Link onClick={handleNavigate}>{isRegisterPage ? 'Sign In' : 'Registration'}</Link>
