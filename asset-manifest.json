@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_66_VIlliaV/static/css/main.ce9be919.css",
-    "main.js": "/react_node_fs_66_VIlliaV/static/js/main.4a944b0e.js",
+    "main.js": "/react_node_fs_66_VIlliaV/static/js/main.c246bf78.js",
     "static/js/570.3573f91e.chunk.js": "/react_node_fs_66_VIlliaV/static/js/570.3573f91e.chunk.js",
     "static/js/589.a5aa1df2.chunk.js": "/react_node_fs_66_VIlliaV/static/js/589.a5aa1df2.chunk.js",
     "static/js/898.eac7ec24.chunk.js": "/react_node_fs_66_VIlliaV/static/js/898.eac7ec24.chunk.js",
@@ -108,7 +108,7 @@
     "static/media/authContainerBckgrndDesktop.svg": "/react_node_fs_66_VIlliaV/static/media/authContainerBckgrndDesktop.d5d5440654b186017ddacb2e9f52c512.svg",
     "static/media/chevron-up.svg": "/react_node_fs_66_VIlliaV/static/media/chevron-up.6c7efe19cd047dac9e6e5a497eb427ee.svg",
     "main.ce9be919.css.map": "/react_node_fs_66_VIlliaV/static/css/main.ce9be919.css.map",
-    "main.4a944b0e.js.map": "/react_node_fs_66_VIlliaV/static/js/main.4a944b0e.js.map",
+    "main.c246bf78.js.map": "/react_node_fs_66_VIlliaV/static/js/main.c246bf78.js.map",
     "570.3573f91e.chunk.js.map": "/react_node_fs_66_VIlliaV/static/js/570.3573f91e.chunk.js.map",
     "589.a5aa1df2.chunk.js.map": "/react_node_fs_66_VIlliaV/static/js/589.a5aa1df2.chunk.js.map",
     "898.eac7ec24.chunk.js.map": "/react_node_fs_66_VIlliaV/static/js/898.eac7ec24.chunk.js.map",
@@ -133,6 +133,6 @@
   },
   "entrypoints": [
     "static/css/main.ce9be919.css",
-    "static/js/main.4a944b0e.js"
+    "static/js/main.c246bf78.js"
   ]
 }
