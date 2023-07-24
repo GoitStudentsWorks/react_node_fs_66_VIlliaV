@@ -10,7 +10,7 @@ import inputIconSuccess from 'img/inputIconSuccess.svg';
 import inputIconError from 'img/inputIconError.svg';
 import { useAuth } from 'utils/hooks/useAuth';
 import { clearErrorMessage, clearVerificationError, clearEmailMessage, setEmailMessage } from 'redux/auth/authSlice';
-import googleLogo from 'img/googleLogo.svg';
+// import googleLogo from 'img/googleLogo.svg';
 
 import {
   Container,
@@ -32,7 +32,7 @@ import {
   PasswordInputContainer,
   ErrorMessage,
   InputWarningContainer,
-  GoogleButton,
+  // GoogleButton,
   EmailMessage,
   OpenedEye,
   ClosedEye,
